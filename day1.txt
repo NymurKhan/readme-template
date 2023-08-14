@@ -1,2 +1,3 @@
 this is day 1
 here iam adding something to add and commit again in remote repository
+this wa the wrogng one now iam correcting the right one for the project
